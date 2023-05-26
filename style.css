@@ -1,0 +1,23 @@
+body{
+    background-color: lightgray;
+}
+
+.main{
+    display: flex;
+    justify-content: center;   
+}
+
+.square_feed{
+    display: flex;
+    border-style: solid;
+    border: 1px;
+    border-color: black;
+    padding: 4px;
+    width: 400px;
+    height: 400px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
